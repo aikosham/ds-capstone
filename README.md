@@ -40,3 +40,17 @@ The project was very challenging. First of all, coming up with a structured appr
 The biggest driver of an affective offer turned out to be: income and membership tenure, which is not surprising since long-time members are the most loyal usually. Some interesting factors of the gender diversity are also presented in the notebook.
 
 We built various ML models to predict user behavior. For BOGO and Discount, we were able to get accuracy above 80% but Information model accuracy could not be improved significantly. We discuss this in the playbook.
+
+## Acknowlegements
+I found these resources very useful:
+
+- [Random forest algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)  
+- [Using categorical data with one hot encoding](https://www.kaggle.com/dansbecker/using-categorical-data-with-one-hot-encoding)  
+- [Is there a rule-of-thumb for how to divide a dataset into training and validation sets?](https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio)  
+- [The use of feature scaling in scikit-learn](https://stackoverflow.com/questions/51660001/the-use-of-feature-scaling-in-scikit-learn)  
+- [Hyperparameter tuning the random forest in Python using scikit-learn](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)  
+- [Random forest feature importances](https://towardsdatascience.com/running-random-forests-inspect-the-feature-importances-with-this-code-2b00dd72b92e)  
+- [Rotate axis text in Python matplotlib](https://stackoverflow.com/questions/10998621/rotate-axis-text-in-python-matplotlib)
+- [datetime strptime in Python](https://stackoverflow.com/questions/44596077/datetime-strptime-in-python)  
+- [Seaborn bar plots](https://seaborn.pydata.org/generated/seaborn.barplot.html)
+- [Pandas and Datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
