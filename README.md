@@ -20,6 +20,8 @@ According to the documentation of the datasets, we divide the customers into 4 t
 ## Files
 - `Starbucks_Capstone_notebook.ipynb` contains my solution. It is also interspersed with markdown documentation to explain my steps.
 - `requirements.txt` contains the exact environment that was used during development (on python 3.8.2)
+- `./data` contains the data files. 
+  - `transcript.json` could not be uploaded due to Github data limits, so I uploaded a compressed version of it. 
 
 ### Libraries
 The major libraries used are:
