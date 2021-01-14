@@ -1,4 +1,6 @@
 # Starbucks Capstone Project
+Medium Post: https://aikosham.medium.com/cappucino-tall-or-medium-analyzing-starbucks-dataset-24529af3e456
+
 A company the size of Starbucks, with millions of daily customers, has loads of data that they can use to drive customer satisfaction and provide the service that they are looking for.
 
 In the capstone project, we were provided with anonymized usage data from a campaign with three types of offers:
