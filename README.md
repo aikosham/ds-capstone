@@ -43,7 +43,8 @@ The project was very challenging. First of all, coming up with a structured appr
 
 The biggest driver of an affective offer turned out to be: income and membership tenure, which is not surprising since long-time members are the most loyal usually. Some interesting factors of the gender diversity are also presented in the notebook.
 
-We built various ML models to predict user behavior. For BOGO and Discount, we were able to get accuracy above 80% but Information model accuracy could not be improved significantly. We discuss this in the playbook.
+We built various ML models to predict user behavior. For BOGO and Discount, we were able to get accuracy above 80% but Information model accuracy could not be improved significantly. We discuss this in the playbook. We define "accuracy" as the Classification Accuracy returned by the classifier.
+
 
 ## Acknowlegements
 I found these resources very useful:
