@@ -58,3 +58,4 @@ I found these resources very useful:
 - [datetime strptime in Python](https://stackoverflow.com/questions/44596077/datetime-strptime-in-python)  
 - [Seaborn bar plots](https://seaborn.pydata.org/generated/seaborn.barplot.html)
 - [Pandas and Datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
+- I would also like to acknowledge everyone who did this challenge previously.
